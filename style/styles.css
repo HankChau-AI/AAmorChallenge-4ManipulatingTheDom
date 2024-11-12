@@ -1,0 +1,9 @@
+body{
+    background-color: bisque;
+}
+
+.newStyle{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: coral;
+    font-size: 2rem;
+}
